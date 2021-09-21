@@ -2,9 +2,13 @@
 //###########################           SSTech       ###################
 //###########################   Programming Courses  ###################
 //######################################################################
-let dylan1: number;
-let dylan2: number;
-dylan1 = 2001;
-dylan2 = 3321;
+let num1: number;
+let num2: number;
+let num3: number;
 
-console.log(dylan1 + dylan2);
+num1 = 222222;
+num2 = 233330;
+
+num3 = num1 + num2;
+
+console.log(num3);
